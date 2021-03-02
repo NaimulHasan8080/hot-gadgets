@@ -18,8 +18,12 @@
 }
 .card{
     border: none;
-    background-color: whitesmoke;
+    background-color: white;
 }
 .categories, img{
-    background-color:white;
+    background-color:whitesmoke;
+}
+.categories{
+    background-repeat: no-repeat;
+    background-image: url(bg-2.png);
 }
