@@ -1,0 +1,25 @@
+.container{
+    margin-bottom: 20px;
+}
+.img{
+    width: 100%;
+}
+.buy-now-button{
+    background-color: #000000;
+    color: white;
+    font-weight: 700;
+    border-radius: 4px;
+    width: 150px;
+    height: 57px;
+}
+.computer{
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+}
+.card{
+    border: none;
+    background-color: whitesmoke;
+}
+.categories, img{
+    background-color:white;
+}
